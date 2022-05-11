@@ -66,7 +66,7 @@ export class Gluecrawlerstack extends Stack {
             },
             tablePrefix: 'cdk_',
             tags: {
-                name: 'cdk_crawler'
+                name: 'cdk_crawler1'
             }
 
         })
